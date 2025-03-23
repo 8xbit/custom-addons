@@ -171,4 +171,3 @@ git push origin main
 2. Deploy the module to your server if tests pass.
 3. Restart Odoo automatically.
 
-🚀 **Congratulations! You now have a basic CI/CD pipeline for your Odoo module!** 🚀
